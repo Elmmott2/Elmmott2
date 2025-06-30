@@ -84,5 +84,4 @@ Login and dashboard interface
 
 ![loggedinadmin](Assets/loggedinadmin.png)
 
-### 🔗 Connect with Me  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/Elmmott2)
+
